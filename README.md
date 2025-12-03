@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BruteDrango
 - 👀 I’m interested in Linux, Cloud and Devops jobs 
-- 🌱 I’m currently learning Linux, AWS, Oracle SQL, Python, Ansible, Shell Scripting
+- 🌱 I’m currently learning Linux, AWS, PostgreSQL/MySQL , Python, Ansible, Shell Scripting
 - 💞️ I’m looking to collaborate on above mentioned.
 - 📫 How to reach me ... rohit2871997@gmail, +917907843472
 
